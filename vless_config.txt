@@ -214,11 +214,11 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 443,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "ADD",
+        "server_name": "nabi.alitesla.ir",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -244,11 +244,11 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 8443,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "ADD",
+        "server_name": "nabi.alitesla.ir",
         "insecure": true,
         "utls": {
           "enabled": true,
@@ -265,7 +265,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -274,7 +274,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2053,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
@@ -295,7 +295,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -304,7 +304,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2083,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
@@ -325,7 +325,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -334,7 +334,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2087,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
@@ -355,7 +355,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -364,7 +364,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2096,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "tls": {
         "enabled": true,
@@ -385,7 +385,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -394,7 +394,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 80,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -406,7 +406,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -415,7 +415,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 8080,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -427,7 +427,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -436,7 +436,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 8880,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -448,7 +448,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -457,7 +457,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2052,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -469,7 +469,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -478,7 +478,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2082,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -490,7 +490,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -499,7 +499,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2086,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -511,7 +511,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
@@ -520,7 +520,7 @@
       "type": "vless",
       "server": "mci.ircf.space",
       "server_port": 2095,
-      "uuid": "UUID",
+      "uuid": "33f3d1c6-abe8-4ea3-b45e-26849d2b8828",
       "flow": "",
       "multiplex": {
         "enabled": false,
@@ -532,7 +532,7 @@
         "type": "ws",
         "path": "/?ed=2048",
         "headers": {
-          "Host": "ADD"
+          "Host": "nabi.alitesla.ir"
         }
       }
     },
